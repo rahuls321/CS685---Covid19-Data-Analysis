@@ -30,10 +30,10 @@ Question 7 --> ./vaccine-type-ratio-generator.sh
 Question 8 --> ./vaccinated-ratio-generator.sh
 Question 9 --> ./complete-vaccination-generator.sh
 
-# ./assign1.sh -- this will generate all the results in the output folder. 
-# Some questions uses previous question's results so it is advisable to run the code from beginning or from question 1.
-# For better visualizations, comments or code-by-code results, I'll recommend you to run the program using notebooks.
-# For running notebooks go to notebook directory, and run --> jupyter notebook 
-  to access all the notebooks question-wise
-# Question 1 takes around 10 min to execute because I used automated method to find similar method according to cowin data not by manually except for few districts. Other questions code won't take too much time to run.
-# Incase you face any issue in running the code, just let me know here
+/assign1.sh -- this will generate all the results in the output folder. 
+Some questions uses previous question's results so it is advisable to run the code from beginning or from question 1.
+For better visualizations, comments or code-by-code results, I'll recommend you to run the program using notebooks.
+For running notebooks go to notebook directory, and run --> jupyter notebook
+to access all the notebooks question-wise
+Question 1 takes around 10 min to execute because I used automated method to find similar method according to cowin data not by manually except for few districts. Other questions code won't take too much time to run.
+Incase you face any issue in running the code, just let me know here
